@@ -1,20 +1,15 @@
-[
-  {
-    "id": 1,
-    "name": "Mouse Gamer RGB",
-    "category": "Periféricos",
-    "price": "R$ 59,90",
-    "image": "mouse.jpg",
-    "link": "LINK_AFILIADO",
-    "description": "Mouse gamer com iluminação RGB e design ergonômico"
-  },
-  {
-    "id": 2,
-    "name": "Luminária LED Gamer",
-    "category": "Setup",
-    "price": "R$ 39,90",
-    "image": "luminaria.jpg",
-    "link": "LINK_AFILIADO",
-    "description": "Decore seu setup com estilo gamer"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nome do produto",
+      "category": "Setup Gamer",
+      "platform": "Shopee",
+      "price": "R$ 0,00",
+      "image": "",
+      "affiliateLink": "",
+      "description": "",
+      "featured": false
+    }
+  ]
+}
