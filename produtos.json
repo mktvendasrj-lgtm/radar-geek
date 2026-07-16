@@ -1,19 +1,20 @@
-{
-  "id": 1,
-  "name": "Kit Teclado + Mouse Gamer",
-  "image": "https://down-br.img.susercontent.com/file/br-11134207-820l5-mn3oqkw8uj2c13@resize_w900_nl.webp",
-  "affiliateLink": "https://s.shopee.com.br/3LPEFBssns",
-  "shareCode": "BKT-EJQ-ZGC",
-  "category": "setup",
-  "active": true
-},
-{
-  "id": 2,
-  "name": "Suporte para Headset Gamer",
-  "image": "https://down-br.img.susercontent.com/file/br-11134207-820lm-mnt2dkbw3aiq3e.webp",
-  "affiliateLink": "https://s.shopee.com.br/6L2pmLW2j2",
-  "shareCode": "CHG-CJL-CGN",
-  "category": "setup",
-  "active": true
-}
-
+[
+  {
+    "id": 1,
+    "name": "Kit Teclado + Mouse Gamer",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820l5-mn3oqkw8uj2c13@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/3LPEFBssns",
+    "shareCode": "BKT-EJQ-ZGC",
+    "category": "setup",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Suporte para Headset Gamer",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lm-mnt2dkbw3aiq3e.webp",
+    "affiliateLink": "https://s.shopee.com.br/6L2pmLW2j2",
+    "shareCode": "CHG-CJL-CGN",
+    "category": "setup",
+    "active": true
+  }
+]
