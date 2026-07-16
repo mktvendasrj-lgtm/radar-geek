@@ -18,15 +18,5 @@
     "category": "Acessórios",
      "price": 17.09,
     "active": true
-  },
-  {
-    "id": 3,
-    "name": "Teste",
-    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lm-mnt2dkbw3aiq3e.webp",
-    "affiliateLink": "https://s.shopee.com.br/6L2pmLW2j2",
-    "shareCode": "CHG-CJL-CGN",
-    "category": "Perféricos",
-     "price": 1,
-    "active": true
   }
 ]
