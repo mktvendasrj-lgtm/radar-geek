@@ -58,5 +58,25 @@
     "category": "setup",
      "price": 436.25,
     "active": true
+  },
+  {
+    "id": 7,
+    "name": "Controle USB DualShock para PS4 e PC",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-825zv-ml42ija8kxs6c8@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/3qLaLhyaaD",
+    "shareCode": "CKJ-RZV-UBL",
+    "category": "setup",
+     "price": 48.99,
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Controle Gamer Rgb para Pc, Consoles, Android e IOS",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-8262o-mjsgs1il337n6b@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/3g2A9acz46",
+    "shareCode": "ASR-JXY-TCC",
+    "category": "setup",
+     "price": 168,
+    "active": true
   }
 ]
