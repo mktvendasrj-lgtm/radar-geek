@@ -88,5 +88,15 @@
     "category": "games",
      "price": 139.56,
     "active": true
+  },
+    {
+    "id": 10,
+    "name": "Porta-Chaves Controle",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lm-mnnrok665ts062@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/8fQvjLns84",
+    "shareCode": "CGB-HHJ-QRA",
+    "category": "decoração",
+     "price": 13.59,
+    "active": true
   }
 ]
