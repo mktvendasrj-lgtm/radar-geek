@@ -98,5 +98,15 @@
     "category": "decoração",
      "price": 13.59,
     "active": true
+  },
+  {
+    "id": 11,
+    "name": "Caneca Gamer em porcelana ",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820l9-mmt2ydgn1dz5a7@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/9pcvDtPXoP",
+    "shareCode": "BNN-QQH-RYZ",
+    "category": "decoração",
+     "price": 40.46,
+    "active": true
   }
 ]
