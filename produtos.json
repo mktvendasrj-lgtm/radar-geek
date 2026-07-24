@@ -118,5 +118,15 @@
     "category": "games",
      "price": 57.90,
     "active": true
+  },
+   {
+    "id": 13,
+    "name": "Quadro Decorativo Gamer Game Neon",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820ma-mnpw0zhjthc262@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/111a42kH68",
+    "shareCode": "AXT-YJP-DDE",
+    "category": "decoração",
+     "price": 28.79,
+    "active": true
   }
 ]
