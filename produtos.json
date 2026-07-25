@@ -128,5 +128,15 @@
     "category": "decoração",
      "price": 28.79,
     "active": true
+  },
+   {
+    "id": 14,
+    "name": "Monitor Gaming Tela Led Reta/Curva 34' Full HD",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820l7-mnvh76y2rvupad@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/9V09fYDXeb",
+    "shareCode": "BQD-YPN-TEA",
+    "category": "setup",
+     "price": 511.20,
+    "active": true
   }
 ]
