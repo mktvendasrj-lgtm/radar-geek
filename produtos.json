@@ -138,5 +138,15 @@
     "category": "setup",
      "price": 511.20,
     "active": true
+  },
+  {
+    "id": 15,
+    "name": "Luminária 3D Homem-Aranha",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820l5-mnue2d58rchu34@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/8pkVZDy1ik",
+    "shareCode": "CFQ-BSF-UWX",
+    "category": "decoração",
+     "price": 144.42,
+    "active": true
   }
 ]
