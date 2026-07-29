@@ -148,5 +148,15 @@
     "category": "decoração",
      "price": 144.42,
     "active": true
+  },
+  {
+    "id": 16,
+    "name": "Luminária Mine Pixelado",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mgzmzwy19mo5a1@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/30mkTbfxZD",
+    "shareCode": "BTA-UMN-EAX",
+    "category": "decoração",
+     "price": 51.20,
+    "active": true
   }
 ]
