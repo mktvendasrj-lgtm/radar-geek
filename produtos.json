@@ -178,5 +178,15 @@
     "category": "moveis",
      "price": 237.50,
     "active": true
+  },
+  {
+    "id": 19,
+    "name": "Planilha de Controle Financeiro + Coleção Geek",
+    "image": "https://static-media.hotmart.com/zw9KzgsCcm_OO2BLwa0PCmx9hYA=/300x300/filters:quality(100)/hotmart/product_pictures/12d42e35-e0ca-4cc6-a41d-5e364fa7c85c/Capturadetela20260804150207.png",
+    "affiliateLink": "https://planilhafinanceira.pages.dev/",
+    "shareCode": "",
+    "category": "produtividade",
+     "price": 29.90,
+    "active": true
   }
 ]
