@@ -191,9 +191,19 @@
   },
   {
     "id": 20,
-    "name": "Ebook - Como Montar um Pc Gamer Gastando Pouco!",
+    "name": "Ebook - Como Montar um Pc Gamer Gastando Pouco",
     "image": "https://i.pinimg.com/736x/51/e5/da/51e5dad68a8fb64f73dddb0a4543a331.jpg",
     "affiliateLink": "https://ebook-montagem-pc.pages.dev/",
+    "shareCode": "",
+    "category": "produtividade",
+     "price": 9.90,
+    "active": true
+  },
+  {
+    "id": 21,
+    "name": "Ebook - A Evolução dos Videogames",
+    "image": "https://i.pinimg.com/736x/a6/a6/44/a6a644e55ebefb824c97113a6da2f88b.jpg",
+    "affiliateLink": "https://go.hotmart.com/Q96587037F",
     "shareCode": "",
     "category": "produtividade",
      "price": 9.90,
