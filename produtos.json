@@ -188,5 +188,15 @@
     "category": "produtividade",
      "price": 29.90,
     "active": true
+  },
+  {
+    "id": 20,
+    "name": "Ebook - Como Montar um Pc Gamer Gastando Pouco!",
+    "image": "https://i.pinimg.com/736x/51/e5/da/51e5dad68a8fb64f73dddb0a4543a331.jpg",
+    "affiliateLink": "https://ebook-montagem-pc.pages.dev/",
+    "shareCode": "",
+    "category": "produtividade",
+     "price": 9.90,
+    "active": true
   }
 ]
