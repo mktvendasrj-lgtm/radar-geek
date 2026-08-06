@@ -208,5 +208,15 @@
     "category": "produtividade",
      "price": 9.90,
     "active": true
+  },
+  {
+    "id": 22,
+    "name": "Papel de Parede Adesivo Anime",
+    "image": "https://down-br.img.susercontent.com/file/br-11134211-7qukw-lk1cokd7b9u2ad@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/1BLKjfQHUg",
+    "shareCode": "BRC-UNG-WCV",
+    "category": "decoração",
+     "price": 36.00,
+    "active": true
   }
 ]
