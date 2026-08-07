@@ -218,5 +218,15 @@
     "category": "decoração",
      "price": 36.00,
     "active": true
+  },
+   {
+    "id": 23,
+    "name": "Chaveiro com Personagens de Genshin Impact",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rauq-mao16h998go262.webp",
+    "affiliateLink": "https://s.shopee.com.br/19Oof4rdA",
+    "shareCode": "BXE-WPN-HFX",
+    "category": "colecionáveis",
+     "price": 6.17,
+    "active": true
   }
 ]
