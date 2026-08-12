@@ -258,5 +258,15 @@
     "category": "Setup",
      "price": 39.90,
     "active": true
+  },
+   {
+    "id": 27,
+    "name": "Blocos de Montagem Mini Peças Personagens de Anime",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfif-m3vxlg49vox182@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/2BE1NMIY5i",
+    "shareCode": "ADC-EXD-GNU",
+    "category": "Brinquedos",
+     "price": 7.95,
+    "active": true
   }
 ]
