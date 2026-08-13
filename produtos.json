@@ -268,5 +268,15 @@
     "category": "Brinquedos",
      "price": 7.95,
     "active": true
+  },
+   {
+    "id": 28,
+    "name": "Meia Divertida de Personagens Cano Alto Unissex",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81zu3-ml2cyj6hjdhf6d_tn",
+    "affiliateLink": "https://s.shopee.com.br/7AcixOubJu",
+    "shareCode": "BXS-VEH-PTR",
+    "category": "Vestuário",
+     "price": 17.00,
+    "active": true
   }
 ]
