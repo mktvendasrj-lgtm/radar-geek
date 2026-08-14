@@ -265,7 +265,7 @@
     "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfif-m3vxlg49vox182@resize_w900_nl.webp",
     "affiliateLink": "https://s.shopee.com.br/2BE1NMIY5i",
     "shareCode": "ADC-EXD-GNU",
-    "category": "Brinquedos",
+    "category": "Brinquedo",
      "price": 7.95,
     "active": true
   },
@@ -277,6 +277,16 @@
     "shareCode": "BXS-VEH-PTR",
     "category": "Vestuário",
      "price": 17.00,
+    "active": true
+  },
+   {
+    "id": 29,
+    "name": "Carrinho de Controle Remoto com Faróis em Led",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820m6-mlmn3zoaemmddc@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/LmQUweEqz",
+    "shareCode": "BQF-ABN-SBK",
+    "category": "Brinquedo",
+     "price": 48.37,
     "active": true
   }
 ]
