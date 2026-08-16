@@ -298,5 +298,15 @@
     "category": "Acessórios",
      "price": 46.99,
     "active": true
+  },
+   {
+    "id": 31,
+    "name": "Personagens Street Fighter em Impressão 3D",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820li-mq3k985uo5j451@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/AKZplW69GI",
+    "shareCode": "CGD-BTP-ZNU",
+    "category": "Brinquedos",
+     "price": 34.90,
+    "active": true
   }
 ]
