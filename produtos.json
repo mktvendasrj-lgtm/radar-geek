@@ -318,5 +318,15 @@
     "category": "Brinquedos",
      "price": 49.90,
     "active": true
+  },
+  {
+    "id": 33,
+    "name": "Dragão 3D Luminoso Impresso 30cm",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdwv-mc0ft30592ix4d.webp",
+    "affiliateLink": "https://s.shopee.com.br/1VyUFCXyXp",
+    "shareCode": "BYR-ZMP-GUF",
+    "category": "Decoração",
+     "price": 10.54,
+    "active": true
   }
 ]
