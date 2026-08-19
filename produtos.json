@@ -328,5 +328,15 @@
     "category": "Decoração",
      "price": 10.54,
     "active": true
+  },
+   {
+    "id": 34,
+    "name": "Suporte Articulado para Monitor e TV 17' a 30'",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mdx1e2624mbl19@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/3LQA0iAkex",
+    "shareCode": "BTY-XSJ-NNR",
+    "category": "Setup",
+     "price": 108.35,
+    "active": true
   }
 ]
