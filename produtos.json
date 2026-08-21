@@ -348,5 +348,15 @@
     "category": "Setup",
      "price": 78.85,
     "active": true
+  },
+  {
+    "id": 36,
+    "name": "Mouse Gamer Attack Shark X11 Sem Fio RGB Recarregável",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134253-8259c-mr1uo10cit52f9@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/AUtNmgjGcQ",
+    "shareCode": "AEY-LXT-JSA",
+    "category": "Setup",
+     "price": 139.36,
+    "active": true
   }
 ]
