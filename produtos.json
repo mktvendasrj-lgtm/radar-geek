@@ -358,5 +358,15 @@
     "category": "Setup",
      "price": 139.36,
     "active": true
+  },
+   {
+    "id": 37,
+    "name": "Luvas Gamer Anti-Suor para Celular",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdhmtonhi1g122@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/904bbQVOMz",
+    "shareCode": "ACR-HTJ-FVH",
+    "category": "Acessórios",
+     "price": 5.99,
+    "active": true
   }
 ]
