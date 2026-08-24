@@ -378,5 +378,15 @@
     "category": "Brinquedos",
      "price": 14.85,
     "active": true
+  },
+   {
+    "id": 39,
+    "name": "Mesa Dobrável para Notebook",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0xdxz8tmslc79@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/19qAAYFcu",
+    "shareCode": "AAT-HSH-DYG",
+    "category": "Acessórios",
+     "price": 37.98,
+    "active": true
   }
 ]
