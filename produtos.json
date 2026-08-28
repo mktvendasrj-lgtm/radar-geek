@@ -411,12 +411,22 @@
   },
   {
     "id": 42,
-    "name": "Mesa Gamer para Computador e Escritório ",
+    "name": "Mesa Gamer para Computador e Escritório",
     "image": "https://down-br.img.susercontent.com/file/sg-11134201-22110-tyzamcl7wbkvf3@resize_w900_nl.webp",
     "affiliateLink": "https://s.shopee.com.br/7psmFpW1RZ",
     "shareCode": "AEM-FGQ-PPS",
     "category": "Móveis",
      "price": 293.68,
+    "active": true
+  },
+   {
+    "id": 43,
+    "name": "Luminária T-Vírus Resident Evil com LED USB 3D",
+    "image": "https://down-br.img.susercontent.com/file/br-11134201-820m0-mr6yasky4zr9d6@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/3qMfIn5ukW",
+    "shareCode": "BQS-YUL-ZYE",
+    "category": "Decoração",
+     "price": 115.90,
     "active": true
   }
 ]
