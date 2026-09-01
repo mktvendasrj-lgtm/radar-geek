@@ -428,5 +428,15 @@
     "category": "Decoração",
      "price": 115.90,
     "active": true
+  },
+   {
+    "id": 44,
+    "name": "Jogo Cai Não Cai Tetris",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0xlo0116on4eb@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/LmsGVJGKI",
+    "shareCode": "ATR-GNE-LMP",
+    "category": "Brinquedos",
+     "price": 54.44,
+    "active": true
   }
 ]
