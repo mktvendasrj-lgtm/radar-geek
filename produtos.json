@@ -438,5 +438,15 @@
     "category": "Brinquedos",
      "price": 54.44,
     "active": true
+  },
+  {
+    "id": 45,
+    "name": "Kit 7 Dados de RPG D&D",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvtfq5sh28dia0@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/2qUFyDxooS",
+    "shareCode": "CLJ-PQN-DXS",
+    "category": "Brinquedos",
+     "price": 19.49,
+    "active": true
   }
 ]
