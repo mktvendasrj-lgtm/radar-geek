@@ -448,5 +448,15 @@
     "category": "Brinquedos",
      "price": 19.49,
     "active": true
+  },
+  {
+    "id": 46,
+    "name": "Fliperama Portátil com 120 Mil Jogos",
+    "image": "https://down-br.img.susercontent.com/file/43cf254c09ad905c4c27cb619fbddc60@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/6VNbq3xhaG",
+    "shareCode": "CHP-DLY-HZT",
+    "category": "Games",
+     "price": 665.00,
+    "active": true
   }
 ]
