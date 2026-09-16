@@ -468,5 +468,15 @@
     "category": "Brinquedos",
      "price": 36.90,
     "active": true
+  },
+  {
+    "id": 48,
+    "name": "Tapete Gamer de Pelúcia Antiderrapante",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-meqwfdi5ysxv0d@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/2LYLev5UCN",
+    "shareCode": "ABR-VHS-FJF",
+    "category": "Decoração",
+     "price": 49.41,
+    "active": true
   }
 ]
