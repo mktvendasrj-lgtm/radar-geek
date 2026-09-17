@@ -478,5 +478,15 @@
     "category": "Decoração",
      "price": 49.41,
     "active": true
+  },
+   {
+    "id": 49,
+    "name": "Luminária 3D LED de Controle de Videogame",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltmekxwto6jt08@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/5q8FTFqgqQ",
+    "shareCode": "CKR-JVC-NKE",
+    "category": "Decoração",
+     "price": 47.00,
+    "active": true
   }
 ]
