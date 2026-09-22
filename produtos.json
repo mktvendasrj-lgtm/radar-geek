@@ -498,5 +498,15 @@
     "category": "Tecnologia",
      "price": 42.99,
     "active": true
+  },
+  {
+    "id": 51,
+    "name": "Luminárias Geek Gamers Diversos Modelos",
+    "image": "https://down-br.img.susercontent.com/file/e07f9ada6c6ffb278b78ce796538c626@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/3g3sqChdpk",
+    "shareCode": "ABK-WCR-ABR",
+    "category": "Decoração",
+     "price": 39.53,
+    "active": true
   }
 ]
