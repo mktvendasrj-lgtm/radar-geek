@@ -235,7 +235,7 @@
     "image": "https://down-br.img.susercontent.com/file/sg-11134201-8260s-mlf0bwr4u5mwa4@resize_w900_nl.webp",
     "affiliateLink": "https://s.shopee.com.br/6L3VdJvoZk",
     "shareCode": "AXJ-LZH-YTY",
-    "category": "Vestuário",
+    "category": "Moda",
      "price": 27.90,
     "active": true
   },
@@ -275,7 +275,7 @@
     "image": "https://down-br.img.susercontent.com/file/br-11134207-81zu3-ml2cyj6hjdhf6d_tn",
     "affiliateLink": "https://s.shopee.com.br/7AcixOubJu",
     "shareCode": "BXS-VEH-PTR",
-    "category": "Vestuário",
+    "category": "Moda",
      "price": 17.00,
     "active": true
   },
@@ -507,6 +507,16 @@
     "shareCode": "ABK-WCR-ABR",
     "category": "Decoração",
      "price": 39.53,
+    "active": true
+  },
+   {
+    "id": 52,
+    "name": "Blusa Moletom Anime Naruto",
+    "image": "https://down-br.img.susercontent.com/file/e28dd85cc4fd75d701974964440056a1@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/9fL7ZCr8Jg",
+    "shareCode": "ATV-WHQ-ZJA",
+    "category": "Moda",
+     "price": 53.00,
     "active": true
   }
 ]
