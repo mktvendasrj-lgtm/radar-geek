@@ -518,5 +518,15 @@
     "category": "Moda",
      "price": 53.00,
     "active": true
+  },
+   {
+    "id": 53,
+    "name": "Par de Grips de Silicone para Analógicos",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltylzyby584g1c@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/80CvBFjFuq",
+    "shareCode": "AQB-YUJ-MXU",
+    "category": "Acessórios",
+     "price": 4.99,
+    "active": true
   }
 ]
