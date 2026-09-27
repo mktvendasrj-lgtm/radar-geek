@@ -528,5 +528,15 @@
     "category": "Acessórios",
      "price": 4.99,
     "active": true
+  },
+   {
+    "id": 54,
+    "name": "Kit Fone Headset Gamer Com Microfone + Suporte",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820m3-msltm6awgb2c6d@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/8AWPyrZk7Y",
+    "shareCode": "ABY-DDK-REP",
+    "category": "Setup",
+     "price": 39.98,
+    "active": true
   }
 ]
