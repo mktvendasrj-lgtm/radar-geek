@@ -548,5 +548,15 @@
     "category": "Acessórios",
      "price": 25.20,
     "active": true
+  },
+    {
+    "id": 56,
+    "name": "Bateria Recarregável para Controles Xbox + Grips",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820mb-mo7in9ehtk3l7e@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/30oQBUdiFs",
+    "shareCode": "BXY-LPL-FVK",
+    "category": "Tecnologia",
+     "price": 22.99,
+    "active": true
   }
 ]
