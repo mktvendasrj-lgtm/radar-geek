@@ -558,15 +558,5 @@
     "category": "Tecnologia",
      "price": 22.99,
     "active": true
-  },
-   {
-    "id": 57,
-    "name": "Mesa Retrátil Notebook",
-    "image": "https://down-br.img.susercontent.com/file/br-11134207-820m7-mmkd7d8xlvk091@resize_w900_nl.webp",
-    "affiliateLink": "https://s.shopee.com.br/60S3OQe6eW",
-    "shareCode": "BVD-AKP-CNR",
-    "category": "Acessórios",
-     "price": 37.89,
-    "active": true
   }
 ]
