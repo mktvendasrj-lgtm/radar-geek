@@ -185,7 +185,7 @@
     "image": "https://static-media.hotmart.com/zw9KzgsCcm_OO2BLwa0PCmx9hYA=/300x300/filters:quality(100)/hotmart/product_pictures/12d42e35-e0ca-4cc6-a41d-5e364fa7c85c/Capturadetela20260804150207.png",
     "affiliateLink": "https://planilhafinanceira.pages.dev/",
     "shareCode": "",
-    "category": "Produtividade",
+    "category": "Leitura",
      "price": 29.90,
     "active": true
   },
@@ -557,6 +557,16 @@
     "shareCode": "BXY-LPL-FVK",
     "category": "Tecnologia",
      "price": 22.99,
+    "active": true
+  },
+   {
+    "id": 57,
+    "name": "Mesa Retrátil Notebook",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820m7-mmkd7d8xlvk091@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/60S3OQe6eW",
+    "shareCode": "BVD-AKP-CNR",
+    "category": "Acessórios",
+     "price": 37.89,
     "active": true
   }
 ]
