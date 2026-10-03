@@ -558,5 +558,15 @@
     "category": "Tecnologia",
      "price": 22.99,
     "active": true
+  },
+     {
+    "id": 57,
+    "name": "Totó Jogo de Futebol de Mesa – Mini Pebolim",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5k52gs5oi427d@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/9fLNFXinWH",
+    "shareCode": "AMT-BNR-SLG",
+    "category": "Brinquedos",
+     "price": 113.91,
+    "active": true
   }
 ]
