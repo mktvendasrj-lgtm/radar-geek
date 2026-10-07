@@ -568,5 +568,15 @@
     "category": "Brinquedos",
      "price": 113.91,
     "active": true
+  },
+    {
+    "id": 58,
+    "name": "Mini Impressora Térmica Sem Fio Android/Ios",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lz-mtxwkpg17tvk32@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/6L51pAsBxO",
+    "shareCode": "CFK-NXN-QCR",
+    "category": "Tecnologia",
+     "price": 45.88,
+    "active": true
   }
 ]
