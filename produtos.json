@@ -598,5 +598,15 @@
     "category": "Brinquedos",
      "price": 37.95,
     "active": true
+  },
+   {
+    "id": 61,
+    "name": "Lousa Luminária Acrílico USB + 7 Canetas",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lw-mseghqdsh4at76@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/8pmUf4eYcX",
+    "shareCode": "AFE-LTW-WVL",
+    "category": "Brinquedos",
+     "price": 32.91,
+    "active": true
   }
 ]
