@@ -608,5 +608,15 @@
     "category": "Brinquedos",
      "price": 32.91,
     "active": true
+  },
+   {
+    "id": 62,
+    "name": "Caixa De Som Bluetooth USB FM SD Ipx6",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820lo-mm9qmldg5csg23@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/2qVJ80sViE",
+    "shareCode": "AAA-WCN-SAR",
+    "category": "Tecnologia",
+     "price": 66.50,
+    "active": true
   }
 ]
