@@ -618,5 +618,15 @@
     "category": "Tecnologia",
      "price": 66.50,
     "active": true
+  },
+   {
+    "id": 63,
+    "name": "Carregador PowerBank Universal Com Indicador De Bateria",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-820m5-mu7yemegieww12@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/qkGMx1PGd",
+    "shareCode": "BFB-EVK-FZB",
+    "category": "Tecnologia",
+     "price": 56.34,
+    "active": true
   }
 ]
