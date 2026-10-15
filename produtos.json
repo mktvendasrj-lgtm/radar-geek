@@ -628,5 +628,15 @@
     "category": "Tecnologia",
      "price": 56.34,
     "active": true
+  },
+  {
+    "id": 64,
+    "name": "Kit de enfeites de Natal Super Mario",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-22110-6bmaf8asnnjv12@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/30omgtLcnf",
+    "shareCode": "BTG-BUE-NHS",
+    "category": "Decoração",
+     "price": 43.89,
+    "active": true
   }
 ]
