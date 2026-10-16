@@ -638,5 +638,15 @@
     "category": "Decoração",
      "price": 43.89,
     "active": true
+  },
+   {
+    "id": 65,
+    "name": "Amplificador De Imagem Para Celular",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lh33avsir4qe94@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/5q8zbHGGEr",
+    "shareCode": "ACV-XXE-XRW",
+    "category": "Acessórios",
+     "price": 16.99,
+    "active": true
   }
 ]
