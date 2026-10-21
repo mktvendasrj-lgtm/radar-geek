@@ -648,5 +648,15 @@
     "category": "Acessórios",
      "price": 16.99,
     "active": true
+  },
+   {
+    "id": 66,
+    "name": "Mini Console Portátil com 400 Jogos",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9ymyjonpzjt9c@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/2BFpG0VKuL",
+    "shareCode": "CEA-EKK-BYN",
+    "category": "Games",
+     "price": 38.88,
+    "active": true
   }
 ]
