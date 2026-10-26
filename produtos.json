@@ -658,5 +658,15 @@
     "category": "Games",
      "price": 38.88,
     "active": true
+  },
+   {
+    "id": 67,
+    "name": "Echo Dot 5° Geração",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mg96j0hfw83o4c@resize_w900_nl.webp",
+    "affiliateLink": "https://s.shopee.com.br/70LD2vCuOx",
+    "shareCode": "ADH-DSN-KZL",
+    "category": "Tecnologia",
+     "price": 49.99,
+    "active": true
   }
 ]
